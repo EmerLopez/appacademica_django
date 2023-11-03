@@ -1,0 +1,1 @@
+# appacademica_django
